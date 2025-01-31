@@ -4,7 +4,7 @@ I'm Mohamed Abdulaziz Eisa, Machine Learning Engineer
 Computer Science and AI graduate with a passion for all things **Data**
 --------------------------------------------------------------
 
-* 🌍  I'm based in Poland, wroclaw 
+* 🌍  I'm based in Poland, Wrocław 
 * ✉️  You can contact me at [mohamed.abdulaziz.eisa@gmail.com](mohamed.abdulaziz.eisa@gmail.com)
 * 🧠  I'm learning Everything about \[ Data Science - Engineering \] 
 
