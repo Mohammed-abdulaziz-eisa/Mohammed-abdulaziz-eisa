@@ -11,7 +11,6 @@ Computer Science and AI graduate with a passion for all things **Data**
 ### Skills
 
 <!-- Programming Languages -->
-<strong>Programming Languages:</strong>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="36" height="36" alt="R" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C++" />
@@ -20,7 +19,6 @@ Computer Science and AI graduate with a passion for all things **Data**
 <br>
 
 <!-- Data Science & Machine Learning -->
-<strong>Data Science & Machine Learning:</strong>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="PyTorch" />
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas" />
@@ -28,7 +26,6 @@ Computer Science and AI graduate with a passion for all things **Data**
 <br>
 
 <!-- Data Engineering & Databases -->
-<strong>Data Engineering & Databases:</strong>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="Apache Spark" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="36" height="36" alt="Apache Airflow" />
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="36" height="36" alt="Apache Kafka" />
@@ -38,7 +35,6 @@ Computer Science and AI graduate with a passion for all things **Data**
 <br>
 
 <!-- Cloud & DevOps -->
-<strong>Cloud & DevOps:</strong>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36" alt="GCP" />
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="36" height="36" alt="Apache Hadoop" />
@@ -47,15 +43,13 @@ Computer Science and AI graduate with a passion for all things **Data**
 <br>
 
 <!-- APIs & Tools -->
-<strong>APIs & Tools:</strong>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Mlflow-logo-black-on-transparent.png" width="36" height="36" alt="MLflow" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="36" height="36" alt="Tableau" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" width="36" height="36" alt="Power BI" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Mlflow-logo-black-on-transparent.png" width="36" height="36" alt="MLflow" />
 
 <br><br>
 
 **Data Science:** Machine Learning · Deep Learning · Statistical Analysis · Predictive Modeling · NLP  
 **Data Engineering:** ETL/ELT · Data Pipelines · Distributed Systems · Data Warehousing · Stream Processing  
-**Cloud & DevOps:** AWS (Redshift, Glue, S3) · GCP (BigQuery, Dataflow) · Azure (Databricks, Synapse)  
-**APIs & Tools:** Scikit-learn · NumPy · SciPy · MLflow · Kubeflow · DBT · Snowflake · Tableau · Power BI
+**Cloud & DevOps:** AWS (Redshift, Glue, S3)· Azure (Databricks, Synapse)  
+**APIs & Tools:** Scikit-learn · NumPy · SciPy · MLflow · Kubeflow · DBT · Snowflake · Tableau 
