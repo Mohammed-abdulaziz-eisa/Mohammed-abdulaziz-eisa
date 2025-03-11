@@ -11,7 +11,7 @@ Computer Science and AI graduate with a passion for all things **Data**
 ### Skills
 
 **Data Science:** Machine Learning · Deep Learning · Statistical Analysis · Predictive Modeling · NLP  
-**Data Engineering:** ETL/ELT · Data Pipelines · Distributed Systems · Data Warehousing · Stream Processing  
-**Cloud & DevOps:** AWS (Redshift, Glue, S3)· Azure (Databricks, Synapse)  
-**APIs & Tools:** Scikit-learn · NumPy · SciPy · MLflow · Kubeflow · DBT · Snowflake · Tableau
+**Data Engineering:** ETL/ELT · Data Pipelines  · Data Warehousing · Stream Processing  
+**Cloud & DevOps:** AWS (SageMaker, S3)· Azure (Databricks)  
+**APIs & Tools:** Scikit-learn · NumPy · SciPy · MLflow  · Snowflake · Tableau
 
