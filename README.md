@@ -1,4 +1,4 @@
-I'm Mohamed Abdulaziz Eisa, Machine Learning Engineer 
+I'm Eisa
 ==============================================================================================================================================
 
 Computer Science and AI graduate with a passion for all things **Data**
@@ -12,6 +12,6 @@ Computer Science and AI graduate with a passion for all things **Data**
 
 **Data Science:** Machine Learning · Deep Learning · Statistical Analysis · Predictive Modeling · NLP  
 **Data Engineering:** ETL/ELT · Data Pipelines  · Data Warehousing · Stream Processing  
-**Cloud & DevOps:** AWS (SageMaker, S3)· Azure (Databricks)  
-**APIs & Tools:** Scikit-learn · NumPy · SciPy · MLflow  · Snowflake · Tableau
+**Cloud & DevOps:** AWS (SageMaker, S3)· Databricks 
+**APIs & Tools:** MLflow  · Snowflake · Tableau
 
